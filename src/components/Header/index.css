@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  height: 20vh;
+  padding: 20px;
+}
+.trigger-button {
+  background-color: transparent;
+  border: none;
+  margin: 0px;
+}
+.website-logo {
+  height: 7vh;
+}
+.close-btn-container {
+  display: flex;
+  justify-content: center;
+}
+.close-btn {
+  border: none;
+  background-color: transparent;
+}
+.col-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.home-name {
+  font-family: 'Roboto';
+  margin-left: 5px;
+}
+.icons {
+  font-size: 22px;
+  margin: 10px;
+}
+.links {
+  text-decoration: none;
+}
